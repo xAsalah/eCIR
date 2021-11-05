@@ -7,7 +7,7 @@
   <li>Weaponization</li>
   على حسب المعلومات التي تم جمعها ومعرفة نقاط الضعف وغيرها يتمم تحديد الـExploit المناسب 
   <li>Delivery</li>
-  الـ Attack يقوم باختيار الطرية المناسبة لارسال الـExploit 
+  الـ Attack يقوم باختيار الطريقة المناسبة لارسال الـExploit 
   <li>Exploitation</li>
 يتم استغلال نقاط الضعف وتنفيذ الاستغلال المرسل 
   <li>Installation</li>
